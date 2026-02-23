@@ -3,7 +3,7 @@
 "displayName": "Asterion",
 "description":
   '''
-This is collaboration mod.
+This is collaboration mod.a
 
 [white] [purple]|Asterion [yellow]Team|[white] 
 Developers/Helpers:
@@ -24,6 +24,7 @@ Developers/Helpers:
 "subtitle": "Beta V0.96.5",
 "hideBrowser": "true"
 }
+
 
 
 
